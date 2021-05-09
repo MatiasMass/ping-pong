@@ -104,10 +104,6 @@ while True:
                     MOVESPEED += 1
                 if event.key == K_z:
                     MOVESPEED -= 1
-                
-            #
-            
-            #for p in players:
             
         #MOVE BALL
 
